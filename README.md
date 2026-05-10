@@ -6,7 +6,7 @@ Fecha: 09-05-2026
 
 # Introducción
 
-Tal y como señala Manovich en El software toma el mando (2013), el software se ha convertido en el motor principal de la cultura contemporánea. Este ha dejado de ser una sola herramienta de uso para convertirse en un medio con el que se organiza la comunicación, la producción cultural y la interacción social.  
+Tal y como señala Manovich en 'El software toma el mando' (2013), el software se ha convertido en el motor principal de la cultura contemporánea. Este ha dejado de ser una sola herramienta de uso para convertirse en un medio con el que se organiza la comunicación, la producción cultural y la interacción social.  
 
 Las plataformas digitales , actualmente, son medios híbridos donde corvergen múltiples formatos y dinámicas: datos, algoritmos, redes sociales, inteligencia artificial... 
 
@@ -14,7 +14,7 @@ En este  ensayo se quiere analizar dos casos de hibridación digital que podría
 
 A través de estos casos se hará una reflexión sobre el papel del software como motor de la cultura contemporánea.
 
-# Redescubriendo la hibridación. Caso 1: Spotify Wrapped
+# Redescubriendo la hibridación. Caso 1: Spotify *Wrapped*
 
 Spotify Wrapped es una plataforma de streaming musical que genera , anualmente, un resumen individualizado delos gustos msuicales del usuario, mostrando sus artistas favoritos y canciones más ecuchadas en un resumen para ser compartido en redes sociales por lo que esta plataforma es uno de los ejemplos más representativos de cómo éstas transforman el consumo cultural contemporáneo en experiencias híbridas mediadas por algoritmos, visualización de datos y participación social.
 Según Lev Manovich, este fenómeno puede entenderse como un claro ejemplo de hibridación digital, donde convergen diferentes medios, formatos y lógicas culturales dentro de una única interfaz.
