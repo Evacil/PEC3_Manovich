@@ -19,7 +19,7 @@ A través de estos casos se hará una reflexión sobre el papel del software com
 Spotify Wrapped es una plataforma de streaming musical que genera , anualmente, un resumen individualizado delos gustos msuicales del usuario, mostrando sus artistas favoritos y canciones más ecuchadas en un resumen para ser compartido en redes sociales por lo que esta plataforma es uno de los ejemplos más representativos de cómo éstas transforman el consumo cultural contemporáneo en experiencias híbridas mediadas por algoritmos, visualización de datos y participación social.
 Según Lev Manovich, este fenómeno puede entenderse como un claro ejemplo de hibridación digital, donde convergen diferentes medios, formatos y lógicas culturales dentro de una única interfaz.
 
-## Hibridación y software cultural
+## Hibridación y software cultural - Fusión de medios y experiencia cultural del usuario
 
 Spotify Wrapped incorpora música en su plataforma de streaming y herramientas de análisis de datos, diseño visual, storytelling y dinámicas propias de las redes sociales. Todo ello muestra una experiencia híbrida de entretenimiento y participación.
 
@@ -44,6 +44,10 @@ Aquí se evidencia como el software contemporáneo no solo organiza información
 Uno de los cambios más significativos de la cultura digital contemporánea es la aparición de la inteligencia artificial generativa como ChatPT. Su interfaz es capaz de generar textos, responder preguntas, aportar ideas y análisis mediante modelos de lenguajes entrenados con grandes cantidades de datos. 
 
 ChatGPT combina motores de búsqueda, automatización algorítmica, simulación de comunicación humana (capacidades humanas como la escritura, el aprendizaje o la creatividad) y producción cultural en una misma interfaz. Desde la perspectiva de Lev Manovich , este sistema evidencia como el software se ha convertido en un agente activo de creación de contenidos y cultura digital. Un ejemplo relevante de hibridación digital. 
+
+## Hibridación entre inteligencia artificial y comunicación humana . Entre comunicación humana y procesamiento algorítmico
+
+
 
 ---
 
