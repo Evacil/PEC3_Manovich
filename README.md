@@ -36,6 +36,7 @@ El diseño de esta plataforma está enfocado a las redes sociales. La música de
 
 Aquí se evidencia como el software contemporáneo no solo organiza información , sino también interacción social y construcción de identidad cultural. 
 
+
 ---
 
 # Redescubriendo la hibridacion. Caso 2: ChatGPT
@@ -45,6 +46,7 @@ Aquí se evidencia como el software contemporáneo no solo organiza información
 ---
 
 # Conclusiones finales
+Spotify Wrapped es un ejemplo de hibridación digital analizada desde las ideas de Lev Manovich. La plataforma fusiona música, datos, animación, narrativa digital y cultura participativa dentro de una experiencia mediada completamente por software. 
 
 ---
 
