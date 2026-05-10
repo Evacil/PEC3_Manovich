@@ -14,7 +14,7 @@ En este  ensayo se quiere analizar dos casos de hibridación digital que podría
 
 A través de estos casos se hará una reflexión sobre el papel del software como motor de la cultura contemporánea.
 
-# Redescubriendo la hibridación. Caso 1: Spotify 'Wrapped'
+# Redescubriendo la hibridación. Caso 1: Spotify Wrapped
 
 Spotify Wrapped es una plataforma de streaming musical que genera , anualmente, un resumen individualizado delos gustos msuicales del usuario, mostrando sus artistas favoritos y canciones más ecuchadas en un resumen para ser compartido en redes sociales por lo que esta plataforma es uno de los ejemplos más representativos de cómo éstas transforman el consumo cultural contemporáneo en experiencias híbridas mediadas por algoritmos, visualización de datos y participación social.
 Según Lev Manovich, este fenómeno puede entenderse como un claro ejemplo de hibridación digital, donde convergen diferentes medios, formatos y lógicas culturales dentro de una única interfaz.
@@ -44,6 +44,9 @@ Las preferencias musicales son convertidas en datos cuantificables que se reinte
 ---
 
 # Bibliografía
-Manovich, Lev. (2013). El software toma el mando . Barcelona: Editorial UOC.
-Manovich, Lev. (2001). El lenguaje de los nuevos medios de comunicación.
-Spotify. (2024). Spotify Wrapped. Recuperado de: https://www.spotify.com/es/wrapped/ 
+- Manovich, Lev. (2013). El software toma el mando . Barcelona: Editorial UOC.
+- Manovich, Lev. (2001). El lenguaje de los nuevos medios de comunicación.
+- Cultura Digital UOC. (2024). Español, A. F. (2024). *Fundamentos y evolución de la multimedia* [Recurso de aprendizaje textual]. Barcelona: Universitat Oberta de Catalunya (FUOC).
+- Spotify. (2024). Spotify Wrapped. https://www.spotify.com/es/wrapped/
+- OpenAI. (2024). *ChatGPT*. https://chat.openai.com/
+
