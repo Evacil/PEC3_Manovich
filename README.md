@@ -31,7 +31,7 @@ Las preferencias musicales son convertidas en datos cuantificables que se reinte
 
 
 
-# foto  interfaz
+## Interfaz UX/UI (foto)
 El diseño de esta plataforma está enfocado a las redes sociales. La música deja de ser únicamente contenido consumido por el usuario pasivo, la música pasa a ser una exposición pública de la identidad digital del usuario, a través de unos algoritmos generados automáticamente por la plataforma. 
 
 Aquí se evidencia como el software contemporáneo no solo organiza información , sino también interacción social y construcción de identidad cultural. 
@@ -41,7 +41,9 @@ Aquí se evidencia como el software contemporáneo no solo organiza información
 
 # Redescubriendo la hibridacion. Caso 2: ChatGPT
 
+Uno de los cambios más significativos de la cultura digital contemporánea es la aparición de la inteligencia artificial generativa como ChatPT. Su interfaz es capaz de generar textos, responder preguntas, aportar ideas y análisis mediante modelos de lenguajes entrenados con grandes cantidades de datos. 
 
+ChatGPT combina motores de búsqueda, automatización algorítmica, simulación de comunicación humana (capacidades humanas como la escritura, el aprendizaje o la creatividad) y producción cultural en una misma interfaz. Desde la perspectiva de Lev Manovich , este sistema evidencia como el software se ha convertido en un agente activo de creación de contenidos y cultura digital. Un ejemplo relevante de hibridación digital. 
 
 ---
 
