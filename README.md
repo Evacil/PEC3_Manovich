@@ -1,4 +1,4 @@
-# PEC3_Manovich
+# PEC3_Manovich_Reloaded_Spotify-Wrapped_ChatGPT
 
 Autor: Eva Claramunt Laporta
 Asignatura: Cultura Digital
@@ -30,6 +30,11 @@ En este sentido, Spotify Wrapped ejemplifica una de las ideas centrales de Manov
 Las preferencias musicales son convertidas en datos cuantificables que se reinterpretan para hacer narrativas visuales. De esta manera, el software no solo analiza comportamientos, sino que participa en la construcción de la identidad digital del usuario.
 
 
+
+# foto  interfaz
+El diseño de esta plataforma está enfocado a las redes sociales. La música deja de ser únicamente contenido consumido por el usuario pasivo, la música pasa a ser una exposición pública de la identidad digital del usuario, a través de unos algoritmos generados automáticamente por la plataforma. 
+
+Aquí se evidencia como el software contemporáneo no solo organiza información , sino también interacción social y construcción de identidad cultural. 
 
 ---
 
