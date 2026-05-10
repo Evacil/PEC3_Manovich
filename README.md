@@ -16,7 +16,6 @@ A través de estos casos se hará una reflexión sobre el papel del software com
 
 # Redescubriendo la hibridación. Caso 1: Spotify Wrapped
 
-
 Spotify Wrapped es una plataforma de streaming musical que genera , anualmente, un resumen individualizado delos gustos msuicales del usuario, mostrando sus artistas favoritos y canciones más ecuchadas en un resumen para ser compartido en redes sociales por lo que esta plataforma es uno de los ejemplos más representativos de cómo éstas transforman el consumo cultural contemporáneo en experiencias híbridas mediadas por algoritmos, visualización de datos y participación social.
 Según Lev Manovich, este fenómeno puede entenderse como un claro ejemplo de hibridación digital, donde convergen diferentes medios, formatos y lógicas culturales dentro de una única interfaz.
 
@@ -28,7 +27,7 @@ El software interpreta los datos del usuario y construye una exposición visual 
 
 En este sentido, Spotify Wrapped ejemplifica una de las ideas centrales de Manovich: el software como motor de la cultura contemporánea. La plataforma no se limita a almacenar canciones o reproducir contenido, sino que reorganiza la experiencia musical mediante procesos computacionales capaces de generar nuevas formas de interacción.
 
-Las preferencias musicales son convertidas en datos cuantificables que posteriormente se reinterpretan como narrativas emocionales y visuales. De esta manera, el software no solo analiza comportamientos, sino que participa en la construcción de la identidad digital del usuario.
+Las preferencias musicales son convertidas en datos cuantificables que se reinterpretan para hacer narrativas visuales. De esta manera, el software no solo analiza comportamientos, sino que participa en la construcción de la identidad digital del usuario.
 
 
 
