@@ -4,7 +4,7 @@ Autor: Eva Claramunt Laporta
 Asignatura: Cultura Digital
 Fecha: 09-05-2026
 
-# Planteamiento
+# Introducción
 
 Tal y como señala Manovich en El software toma el mando (2013), el software se ha convertido en el motor principal de la cultura contemporánea. Este ha dejado de ser una sola herramienta de uso para convertirse en un medio con el que se organiza la comunicación, la producción cultural y la interacción social.  
 
