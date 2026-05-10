@@ -45,7 +45,9 @@ Uno de los cambios más significativos de la cultura digital contemporánea es l
 
 ChatGPT combina motores de búsqueda, automatización algorítmica, simulación de comunicación humana (capacidades humanas como la escritura, el aprendizaje o la creatividad) y producción cultural en una misma interfaz. Desde la perspectiva de Lev Manovich , este sistema evidencia como el software se ha convertido en un agente activo de creación de contenidos y cultura digital. Un ejemplo relevante de hibridación digital. 
 
-## Hibridación entre inteligencia artificial y comunicación humana. Entre la comunicación humana y el procesamiento algorítmico
+## Hibridación entre inteligencia artificial y comunicación humana. Entre la comunicación humana y el procesamiento algorítmico.
+
+La plataforma combina inteligencia artificial, automatización, conversación, escritura y acceso a información en tiempo real mediante una interfaz bastante simple.
 
 
 
