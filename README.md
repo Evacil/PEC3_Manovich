@@ -31,7 +31,7 @@ Las preferencias musicales son convertidas en datos cuantificables que se reinte
 
 
 
-## Interfaz UX/UI (foto)
+## Interfaz UX/UI 
 El diseño de esta plataforma está enfocado a las redes sociales. La música deja de ser únicamente contenido consumido por el usuario pasivo, la música pasa a ser una exposición pública de la identidad digital del usuario, a través de unos algoritmos generados automáticamente por la plataforma. 
 
 Aquí se evidencia como el software contemporáneo no solo organiza información, sino también interacción social y construcción de identidad cultural. 
