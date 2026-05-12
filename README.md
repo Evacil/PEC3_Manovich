@@ -32,6 +32,9 @@ Las preferencias musicales son convertidas en datos cuantificables que se reinte
 
 
 ## Interfaz UX/UI 
+
+<img width="1920" height="1080" alt="spotify-wrapped-2025-is-finally-here-see-your-listening-stat_6urr 1920" src="https://github.com/user-attachments/assets/7ba8e478-f578-403f-bb5c-187d05d8ad3f" />
+
 El diseño de esta plataforma está enfocado a las redes sociales. La música deja de ser únicamente contenido consumido por el usuario pasivo, la música pasa a ser una exposición pública de la identidad digital del usuario, a través de unos algoritmos generados automáticamente por la plataforma. 
 
 Aquí se evidencia como el software contemporáneo no solo organiza información, sino también interacción social y construcción de identidad cultural. 
@@ -73,4 +76,5 @@ Desde la perspectiva de Manovich, ChatGPT refleja cómo el software contemporán
 - Cultura Digital UOC. (2024). Español, A. F. (2024). *Fundamentos y evolución de la multimedia* [Recurso de aprendizaje textual]. Barcelona: Universitat Oberta de Catalunya (FUOC).
 - Spotify. (2024). *Spotify Wrapped*. https://www.spotify.com/es/wrapped/
 - OpenAI. (2024). *ChatGPT*. https://chat.openai.com/
+- - PCMag. (2025). *Spotify Wrapped Is Here: How to See Yours and What's New for 2025*. https://me.pcmag.com/en/streaming-music-services/33858/spotify-wrapped-is-here-how-to-see-yours-and-whats-new-for-2025
 
