@@ -31,9 +31,8 @@ Las preferencias musicales son convertidas en datos cuantificables que se reinte
 
 
 
-
 <img width="1920" height="1080" alt="spotify-wrapped-2025-is-finally-here-see-your-listening-stat_6urr 1920" src="https://github.com/user-attachments/assets/7ba8e478-f578-403f-bb5c-187d05d8ad3f" />
-*Figura 1. Ejemplo de interfaz visual de Spotify Wrapped 2025. Fuente: PCMag.*
+*Figura 1. Ejemplo de interfaz visual de Spotify Wrapped 2025. Fuente: PCMag*
 
 
 El diseño de esta plataforma está enfocado a las redes sociales. La música deja de ser únicamente contenido consumido por el usuario pasivo, la música pasa a ser una exposición pública de la identidad digital del usuario, a través de unos algoritmos generados automáticamente por la plataforma. 
@@ -56,7 +55,8 @@ Los buscadores web, procesadores de texto o asistentes virtuales no funcionaban 
 
 
 <img width="1000" height="530" alt="07_1" src="https://github.com/user-attachments/assets/45f8fbf7-bc33-41a6-aea5-0feb592e3735" />
-*Figura 2. Representación interfaz de ChatGPT. Fuente: datos.gob.es.*
+*Figura 2. Representación interfaz de ChatGPT. Fuente: datos.gob.es*
+
 
 La interfaz no muestra los tradicionales botones y menús de navegación de una plataforma web sino que muestra formas de conversación humana generando una interacción cultural entre el usuario y el software.
 
