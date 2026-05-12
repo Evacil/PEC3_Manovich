@@ -73,6 +73,11 @@ Spotify Wrapped es un ejemplo de hibridación digital analizada desde las ideas 
 
 Desde la perspectiva de Manovich, ChatGPT refleja cómo el software contemporáneo ya no funciona únicamente como soporte técnico, sino como un agente activo capaz de crear procesos culturales, creativos y comunicativos.
 
+# Uso de la IA
+Durante esta práctica se han utilizado IA como apoyo puntual para la consulta conceptual, revisión lingüística y orientación en la organización del contenido.  
+
+El análisis, la selección de los casos y la reflexión final desarrollada en el caso han sido elaborados y revisados personalmente. 
+
 ---
 
 # Bibliografía
