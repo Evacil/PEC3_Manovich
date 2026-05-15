@@ -16,12 +16,12 @@ A través de estos casos se hará una reflexión sobre el papel del software com
 
 # Redescubriendo la hibridación. Caso 1: Spotify_Wrapped
 
-Spotify Wrapped es una plataforma de streaming musical que genera, anualmente, un resumen individualizado de los gustos msuicales del usuario, mostrando sus artistas favoritos y canciones más ecuchadas en un resumen para ser compartido en redes sociales por lo que esta plataforma es uno de los ejemplos más representativos de cómo éstas transforman el consumo cultural contemporáneo en experiencias híbridas mediadas por algoritmos, visualización de datos y participación social.
+Spotify Wrapped es una plataforma de *streaming* musical que genera, anualmente, un resumen individualizado de los gustos musicales del usuario, mostrando sus artistas favoritos y canciones más escuchadas en un resumen para ser compartido en redes sociales por lo que esta plataforma es uno de los ejemplos más representativos de cómo éstas transforman el consumo cultural contemporáneo en experiencias híbridas mediadas por algoritmos, visualización de datos y participación social.
 Según Lev Manovich, este fenómeno puede entenderse como un claro ejemplo de hibridación digital, donde convergen diferentes medios, formatos y lógicas culturales dentro de una única interfaz.
 
 ## Hibridación y software cultural - Fusión de medios y la experiencia cultural del usuario.
 
-Spotify Wrapped incorpora música en su plataforma de streaming y herramientas de análisis de datos, diseño visual, storytelling y dinámicas propias de las redes sociales. Todo ello muestra una experiencia híbrida de entretenimiento y participación.
+Spotify Wrapped incorpora música en su plataforma de streaming y herramientas de análisis de datos, diseño visual, *storytelling* y dinámicas propias de las redes sociales. Todo ello muestra una experiencia híbrida de entretenimiento y participación.
 
 El software interpreta los datos del usuario y construye una exposición visual de sus gustos y hábitos de consumo musical. Así, las estadísticas musicales se basan en la identidad del individuo para construir una narrativa en la plataforma con una participación digital. Está diseñado para publicar en redes sociales: las historias visuales, diseño gráfico, animación y rankings personales recuerdan a formatos propios de Instagram o TikTok, formatos de participación digital.
 
@@ -42,14 +42,14 @@ Aquí se evidencia como el software contemporáneo no solo organiza información
 
 ---
 
-# Redescubriendo la hibridacion. Caso 2: ChatGPT
+# Redescubriendo la hibridación. Caso 2: ChatGPT
 
 Uno de los cambios más significativos de la cultura digital contemporánea es la aparición de la inteligencia artificial generativa como ChatPT. Su interfaz genera textos, responde preguntas, aporta ideas y hace análisis mediante modelos de lenguajes entrenados con grandes cantidades de datos. 
 
 
 ## Hibridación entre inteligencia artificial y comunicación humana. Entre la comunicación humana y el procesamiento algorítmico.
 
-La plataforma combina inteligencia artificial, automatización, conversación, escritura y acceso a información en tiempo real mediante una interfaz bastante simple. Desde la perspectiva de Lev Manovich, eeste es un claro ejmeplo de como el software se ha convertido en un agente activo de creación de contenidos y cultura digital. Un ejemplo relevante de hibridación digital. 
+La plataforma combina inteligencia artificial, automatización, conversación, escritura y acceso a información en tiempo real mediante una interfaz bastante simple. Desde la perspectiva de Lev Manovich, este es un claro ejemplo de como el software se ha convertido en un agente activo de creación de contenidos y cultura digital. Un ejemplo relevante de hibridación digital. 
 
 Los buscadores web, procesadores de texto o asistentes virtuales no funcionaban de manera separada en ChatGPT, se fusionan dentro de un entorno, donde el usuario puede buscar la información, redactar textos, resolver dudas o generar contenidos creativos mediante un lenguaje con capacidades humanas.
 
